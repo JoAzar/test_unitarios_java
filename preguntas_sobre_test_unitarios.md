@@ -23,3 +23,5 @@ Es recomendable utilizar heurísticas cuando
 ### *¿Qué heurística conoce y cuál es su complejidad computacional?*
 
 El algoritmo genetico, algoritmos evolutivos
+
+Su complejidad puede variar dependiendo su implementación pero puede ser O(p*g*f) donde p = población, g = numero de generaciones, f = fitness por individuo
