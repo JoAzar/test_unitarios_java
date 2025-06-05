@@ -24,4 +24,4 @@ Es recomendable utilizar heurísticas cuando
 
 El algoritmo genetico, algoritmos evolutivos
 
-Su complejidad puede variar dependiendo su implementación pero puede ser O(p*g*f) donde p = población, g = numero de generaciones, f = fitness por individuo
+Su complejidad puede variar dependiendo su implementación pero puede ser O(p x g x f) donde p = población, g = numero de generaciones, f = fitness por individuo
